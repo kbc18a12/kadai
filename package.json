@@ -1,0 +1,23 @@
+{
+  "name": "kadai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbc18a12/kadai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbc18a12/kadai/issues"
+  },
+  "homepage": "https://github.com/kbc18a12/kadai#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
